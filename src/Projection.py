@@ -236,7 +236,7 @@ def moltrans(mol, H, K, L):
     H,K,L: meshgrid contains all the points in Fourier space to be calculated (must be matrix of the same size)
 
     Output:
-    Molecule transform in Fourier space, same size as H, K or L
+    Molecular transform in Fourier space, same size as H, K and L
     """
     sizeH = H.shape
     nrCrds = np.prod(sizeH)
