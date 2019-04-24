@@ -6,19 +6,19 @@ http://xray.bmc.uu.se/~huldt/molbiofys/tutorial.pdf
 
 ## Contents
 
-Chapter 1. Projection images [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%201.%20Projection%20images.ipynb)]
+Chapter 1. Projection images [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%201.%20Projection%20images.ipynb)]
 
-Chapter 2. Diffraction concepts [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%202.%20Diffraction%20concepts.ipynb)]
+Chapter 2. Diffraction concepts [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%202.%20Diffraction%20concepts.ipynb)]
 
-Chapter 3. Resolution [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%203.%20Resolution.ipynb)]
+Chapter 3. Resolution [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%203.%20Resolution.ipynb)]
 
-Chapter 4. A look at 3D reconstructions [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%204.%20A%20look%20at%203D%20reconstructions.ipynb)]
+Chapter 4. A look at 3D reconstructions [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%204.%20A%20look%20at%203D%20reconstructions.ipynb)]
 
-Chapter 5. Sampling, periodicity and crystals [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%205.%20Sampling%2C%20periodicity%20and%20crystals.ipynb)]
+Chapter 5. Sampling, periodicity and crystals [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%205.%20Sampling%2C%20periodicity%20and%20crystals.ipynb)]
 
-Chapter 6. Phase retrieval [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%206.%20Phase%20retrieval.ipynb)]
+Chapter 6. Phase retrieval [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Chapter%206.%20Phase%20retrieval.ipynb)]
 
-Appendix. Q&A [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/wang-zy/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Q%26A.ipynb)]
+Appendix. Q&A [[ IPython nbviewer ](http://nbviewer.jupyter.org/github/chuckie82/Tutorial-in-Diffraction-Imaging-Python/blob/master/notebook/Q%26A.ipynb)]
 
 ## About Mayavi
 
