@@ -1,7 +1,6 @@
 # Tutorial in Diffraction Imaging
 
-Python version of the following tutorial, which is realized in Matlab.
-
+This tutorial is built on the following tutorial in Matlab:
 http://xray.bmc.uu.se/~huldt/molbiofys/tutorial.pdf
 
 ## Contents
