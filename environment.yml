@@ -1,0 +1,12 @@
+name: lcls
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - mayavi
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+
