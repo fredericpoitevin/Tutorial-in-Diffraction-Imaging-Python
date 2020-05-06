@@ -44,3 +44,9 @@ jupyter nbextension install --py mayavi --user
 ```
 
 Generating a static image is much more complicated than it looks. Off screen rendering needs to be enabled for this to work. More details about using Mayavi in Jupyter notebook and how to set off screen rendering can be found [ here ](http://docs.enthought.com/mayavi/mayavi/tips.html).
+
+## Install from conda environment
+Assuming you have anaconda installed, running the following command should create an environment with the necessary libraries
+```
+conda env create --file environment.yml
+```
